@@ -1,22 +1,22 @@
 //===========================================================================
 // Copyright(c) 2019 Purple Mountain Obvservatory. All rights reserved
-// Department:  Key Laboratory of Dark Mater & Space Astronomy
-// Designer:    Zhang Yan
+// Department:      Key Laboratory of Dark Mater & Space Astronomy
+// Designer:        Zhang Yan
 //---------------------------------------------------------------------------
-// Project:     Asteroids
-// Device:      AD7476 (12-bit 1MHz SPS ADC from Analog Devices, Inc. )
-// DataSheet:   https://www.analog.com/media/en/technical-documentation/data-sheets/AD7476_7477_7478.pdf
-// Module Name: AD7476EP_S
-// Description: This module generate control signal of ADC
-// Version:     1.2 
+// Project:         Asteroids
+// Device:          AD7476 (12-bit 1MHz SPS ADC from Analog Devices, Inc. )
+// DataSheet:       https://www.analog.com/media/en/technical-documentation/data-sheets/AD7476_7477_7478.pdf
+// Module Name:     AD7476EP_S
+// Description:     This module generate control signal of ADC
+// Version:         1.2
 //---------------------------------------------------------------------------
 // Parameters:
 //---------------------------------------------------------------------------
 // REUSE ISSUES
-// Reset Strategy:      Asynchronous, Active High Reset
-// Clock Domains:       Single Clock Positive Edge 25MHz
+// Reset Strategy:  Asynchronous, Active High Reset
+// Clock Domains:   Single Clock Positive Edge 25MHz
 // Instantiations:
-// Synthesizable:       Yes
+// Synthesizable:   Yes
 //---------------------------------------------------------------------------
 // REVISE HISTORY
 // 2019-01-07       Zhang Yan       File Created
